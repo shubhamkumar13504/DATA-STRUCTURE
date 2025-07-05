@@ -55,6 +55,6 @@ int main(){
     postorder(root);
     printf("\nInorder---->");
     Inorder(root);
-    printf("\n");
+    printf("done \n");
     return 0;
 }
